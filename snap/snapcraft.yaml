@@ -19,6 +19,9 @@ apps:
     command: cheat
     plugs: [home]
 
+  vi:
+    command: vim
+
   vim:
     command: vim
 
